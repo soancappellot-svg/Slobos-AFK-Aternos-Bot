@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "servpoto.aternos.me",
+    "ip": "servpoto.aternos.me:29476",
     "port": 29476,
     "version": "",
     "try-creative": false
