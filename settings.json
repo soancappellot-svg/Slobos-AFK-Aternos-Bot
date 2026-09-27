@@ -8,7 +8,7 @@
   "server": {
     "ip": "Hardcoremist.aternos.me",
     "port": 59982,
-    "version": "1.21.11",
+    "version": "26.3",
     "try-creative": true
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
